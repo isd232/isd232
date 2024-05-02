@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://t4.ftcdn.net/jpg/02/35/26/51/360_F_235265169_iZnBkQhBM1yVs6adbpB1pq2dlQVoFxLn.jpg)
+[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 )](https://t4.ftcdn.net/jpg/02/35/26/51/360_F_235265169_iZnBkQhBM1yVs6adbpB1pq2dlQVoFxLn.jpg)
 <h1 align="center">Hi 👋, I'm Waldemar Frączek</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
