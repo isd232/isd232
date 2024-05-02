@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/13HBDT4QSTpveU.webp">
 
-
 - 🔭 I’m currently working on [Tourist Web App](https://github.com/isd232/praca_inz)
 
 - 🌱 I’m currently learning **Flask, androidStudio, Kotlin**
