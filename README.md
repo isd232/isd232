@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://t4.ftcdn.net/jpg/02/35/26/51/360_F_235265169_iZnBkQhBM1yVs6adbpB1pq2dlQVoFxLn.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Waldemar Frączek</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/13HBDT4QSTpveU.webp">
