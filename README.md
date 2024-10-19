@@ -1,13 +1,11 @@
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A 3rd year Computer Science Student</h3>
+<h1 align="center">hi</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/13HBDT4QSTpveU.webp">
 
 - 🔭 I’m currently working on [Tourist Web App](https://github.com/isd232/praca_inz)
 
 - 🌱 I’m currently learning **Flask, androidStudio, Kotlin**
 
-- 📫 How to reach me **waldekfraczek1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
